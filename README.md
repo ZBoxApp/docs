@@ -1,15 +1,15 @@
-# Mattermost Platform Documentation
+# Documentación de la Plataforma ZBox Now!
 
-This repository generates the documentation available at http://docs.mattermost.com/
+Este repositorio generá la documentación que estará disponible en http://doc.zboxnow.com/
 
-## Usage
+## Como generar los documentos
 
-To generate the HTML files from markdown in the `/source` directory: 
+Para generar los archivos HTML desde los archivos markdown en el directorio `/source`: 
 
-1. Download repro onto a machine with Python installed
+1. Descargar el repo a un maquina con Python instalado
 2. `pip install sphinx sphinx-autobuild`
 3. `pip install recommonmark`
-4. Type `make html`
+4. Escribir `make html`
 
 To contribute to the documentation please fork this repository and create a pull request. If you have not done so already, please complete the [Mattermost Contributor Agreement](http://www.mattermost.org/mattermost-contributor-agreement/). 
 
